@@ -1,0 +1,4 @@
+first_name = input("what is your name: ")
+if first_name == "Leam":
+    print("that is my name to! even tho I am a AI my name is William A32, Liam is short for Liam")
+print("well it's nice to meet you " + first_name)
